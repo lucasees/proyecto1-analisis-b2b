@@ -1,0 +1,21 @@
+producto_id,nombre_producto,categoria,precio_unitario
+1,Aceite Industrial Premium,Aceites,450.0
+2,Aceite Estándar Base,Aceites,280.0
+3,Lubricante Sintético A,Aceites,520.0
+4,Lubricante Mineral B,Aceites,310.0
+5,Grasa Industrial HT,Aceites,380.0
+6,Grasa Multiuso Estándar,Aceites,240.0
+7,Aceite Hidráulico H68,Aceites,410.0
+8,Aceite Hidráulico H46,Aceites,390.0
+9,Aceite de Transmisión,Aceites,360.0
+10,Fluido de Corte Premium,Fluidos,480.0
+11,Fluido de Corte Estándar,Fluidos,320.0
+12,Grasa de Alta Temperatura,Grasas,420.0
+13,Aceite de Motor Diesel,Grasas,470.0
+14,Aceite de Motor Gasolina,Grasas,440.0
+15,Lubricante Alimenticio,Aceites,550.0
+16,Grasa Blanca Alimenticia,Aceites,490.0
+17,Aceite de Compresor,Aceites,400.0
+18,Grasa de Rodamientos,Grasas,350.0
+19,Fluido Hidráulico Biodegradable,Grasas,580.0
+20,Aceite de Engranajes EP,Fluidos,460.0

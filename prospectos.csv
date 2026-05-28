@@ -1,0 +1,31 @@
+prospecto_id,nombre_empresa,fecha_contacto,estado,convertido_a_cliente_id
+1,Ingeniería Avanzada del Este SL,2025-07-22,En negociación,
+2,Fabricaciones Metálicas Norte SA,2025-08-23,En negociación,
+3,Distribución Logística Occidente SL,2025-02-18,Convertido,20.0
+4,Industrias Transformadoras SA,2026-01-10,Convertido,38.0
+5,Mecanizados del Centro SL,2025-11-30,Convertido,29.0
+6,Química Industrial Levante SA,2025-05-26,Convertido,23.0
+7,Transportes Especializados Costa SL,2025-02-09,Convertido,20.0
+8,Manufacturas Precisión SA,2025-06-29,Descartado,
+9,Procesados Técnicos del Sur SL,2025-04-22,Convertido,22.0
+10,Maquinaria Industrial Madrid SA,2025-08-11,Descartado,
+11,Componentes Electrónicos BCN SL,2026-04-17,En negociación,
+12,Textiles Técnicos Cataluña SA,2025-09-03,En negociación,
+13,Construcciones Industriales SA,2025-03-07,En negociación,
+14,Plásticos Especializados SL,2025-07-01,Convertido,24.0
+15,Fundiciones del Mediterráneo SA,2025-08-30,En negociación,
+16,Aceros Especiales Iberia SL,2025-03-19,Contactado,
+17,Logística Integrada Centro SA,2024-11-01,En negociación,
+18,Alimentaria Procesados SL,2026-04-22,En negociación,
+19,Talleres Industriales Aragón SA,2025-06-23,Contactado,
+20,Autopartes del Levante SL,2025-12-01,Contactado,
+21,Refrigeración Comercial BCN SA,2024-12-21,Convertido,19.0
+22,Embalajes Técnicos SL,2026-02-24,Convertido,39.0
+23,Confecciones Industriales SA,2026-01-13,Convertido,36.0
+24,Estructuras Modulares SL,2026-02-07,Convertido,37.0
+25,Polímeros Industriales Valencia SA,2025-02-13,Convertido,21.0
+26,Mecanizado Avanzado SL,2026-03-12,Descartado,
+27,Química Fina Barcelona SA,2025-04-21,Descartado,
+28,Transporte Pesado Centro SL,2026-02-06,En negociación,
+29,Ingeniería de Procesos SA,2025-07-13,Descartado,
+30,Manufacturas del Norte SL,2026-02-21,Convertido,40.0

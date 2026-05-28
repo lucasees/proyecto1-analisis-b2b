@@ -1,0 +1,41 @@
+cliente_id,nombre_empresa,segmento,industria,fecha_alta,ciudad,provincia,tipo_cliente
+1,Metalúrgica del Mediterráneo SL,Mediano,Manufactura,2023-01-04,Granada,Sevilla,Recurrente
+2,Industrias Químicas Levante SA,Mediano,Logística,2023-07-24,Barcelona,Madrid,Recurrente
+3,Logística Integral BCN SL,Mediano,Alimentación,2023-08-12,Valencia,Alicante,Recurrente
+4,Manufacturas Avanzadas Madrid SA,Pequeño,Manufactura,2023-12-16,Tarragona,Zaragoza,Recurrente
+5,Transportes y Distribución Costa SL,Pequeño,Química,2024-01-25,Sevilla,Barcelona,Nuevo
+6,Industrias Alimentarias del Sur SA,Pequeño,Química,2024-03-01,Alicante,Barcelona,Recurrente
+7,Mecanizados Precisión Aragón SL,Mediano,Manufactura,2024-03-01,Alicante,Málaga,Nuevo
+8,Componentes Automotrices Iberia SA,Pequeño,Logística,2024-03-12,Madrid,Barcelona,Recurrente
+9,Procesados Industriales Valencia SL,Mediano,Manufactura,2024-04-02,Tarragona,Zaragoza,Recurrente
+10,Maquinaria Agrícola Levante SA,Grande,Manufactura,2024-09-08,Barcelona,Zaragoza,Nuevo
+11,Envases y Embalajes Mediterráneo SL,Pequeño,Manufactura,2024-09-28,Granada,Vizcaya,Recurrente
+12,Textil Industrial Cataluña SA,Mediano,Logística,2024-10-21,Tarragona,Sevilla,Recurrente
+13,Construcciones Metálicas Centro SL,Mediano,Logística,2024-11-08,Castellón,Valencia,Recurrente
+14,Plásticos Técnicos Andalucía SA,Pequeño,Manufactura,2024-11-10,Barcelona,Tarragona,Recurrente
+15,Electrodomésticos Industriales SL,Pequeño,Manufactura,2024-11-11,Bilbao,Murcia,Nuevo
+16,Fabricación Metálica Costa SA,Pequeño,Química,2024-11-19,Málaga,Castellón,Nuevo
+17,Industrias del Acero Valencia SL,Pequeño,Manufactura,2024-12-15,Valencia,Barcelona,Recurrente
+18,Química Básica Barcelona SA,Grande,Manufactura,2024-12-26,Valencia,Málaga,Recurrente
+19,Logística Avanzada Madrid SL,Grande,Logística,2025-02-04,Barcelona,Barcelona,Recurrente
+20,Manufacturas del Levante SA,Mediano,Química,2025-02-26,Alicante,Castellón,Recurrente
+21,Transporte Pesado Ibérico SL,Grande,Manufactura,2025-03-03,Alicante,Sevilla,Recurrente
+22,Alimentación Industrial Sur SA,Grande,Alimentación,2025-06-10,Castellón,Granada,Recurrente
+23,Mecanizado CNC Aragón SL,Pequeño,Alimentación,2025-07-14,Bilbao,Vizcaya,Recurrente
+24,Piezas de Precisión BCN SA,Grande,Manufactura,2025-07-26,Valencia,Zaragoza,Recurrente
+25,Procesados Químicos Levante SL,Mediano,Alimentación,2025-08-14,Castellón,Vizcaya,Recurrente
+26,Maquinaria del Mediterráneo SA,Grande,Manufactura,2025-08-26,Alicante,Alicante,Recurrente
+27,Embalajes Industriales SL,Grande,Logística,2025-09-03,Tarragona,Tarragona,Nuevo
+28,Confección Técnica Cataluña SA,Pequeño,Logística,2025-10-04,Granada,Barcelona,Nuevo
+29,Estructuras Metálicas Madrid SL,Pequeño,Logística,2025-12-08,Tarragona,Valencia,Nuevo
+30,Polímeros Técnicos Valencia SA,Pequeño,Manufactura,2025-12-08,Castellón,Granada,Nuevo
+31,Refrigeración Industrial SL,Mediano,Alimentación,2025-12-25,Málaga,Alicante,Nuevo
+32,Fundición y Moldeo Costa SA,Grande,Manufactura,2026-01-09,Alicante,Sevilla,Nuevo
+33,Siderúrgica Levante SA,Grande,Manufactura,2026-01-10,Murcia,Barcelona,Nuevo
+34,Química Especialidades BCN SL,Pequeño,Manufactura,2026-01-12,Bilbao,Alicante,Nuevo
+35,Distribución Logística Centro SA,Mediano,Logística,2026-01-18,Sevilla,Barcelona,Nuevo
+36,Ingeniería Industrial Levante SL,Mediano,Alimentación,2026-02-01,Valencia,Málaga,Nuevo
+37,Transporte Multimodal Sur SL,Pequeño,Manufactura,2026-02-18,Madrid,Sevilla,Nuevo
+38,Procesos Alimentarios SA,Pequeño,Logística,2026-02-28,Tarragona,Murcia,Nuevo
+39,Talleres Mecánicos Aragón SL,Pequeño,Manufactura,2026-03-21,Málaga,Granada,Nuevo
+40,Autopartes Premium Iberia SA,Grande,Logística,2026-03-22,Zaragoza,Zaragoza,Nuevo
