@@ -1,0 +1,41 @@
+cliente_id,nombre_empresa,segmento,recency_dias,frequency,monetary,r_score,f_score,m_score,celda_rfm,segmento_rfm
+20,Manufacturas del Levante SA,Mediano,1,20,135431.12,5,5,4,554,Campeones
+14,Plásticos Técnicos Andalucía SA,Pequeño,1,18,52824.8,5,5,3,553,Campeones
+13,Construcciones Metálicas Centro SL,Mediano,3,15,109301.35,5,4,4,544,Campeones
+23,Mecanizado CNC Aragón SL,Pequeño,0,16,40345.62,5,4,3,543,Campeones
+6,Industrias Alimentarias del Sur SA,Pequeño,1,12,33780.1,5,4,2,542,Campeones
+18,Química Básica Barcelona SA,Grande,3,8,137608.05,5,3,5,535,Leales
+39,Talleres Mecánicos Aragón SL,Pequeño,1,5,13439.48,5,2,1,521,Nuevos / Potenciales
+31,Refrigeración Industrial SL,Mediano,5,2,14446.49,5,1,1,511,Nuevos / Potenciales
+3,Logística Integral BCN SL,Mediano,8,22,145457.09,4,5,5,455,Campeones
+19,Logística Avanzada Madrid SL,Grande,13,14,250492.93,4,4,5,445,Campeones
+22,Alimentación Industrial Sur SA,Grande,11,14,246253.87,4,4,5,445,Campeones
+25,Procesados Químicos Levante SL,Mediano,12,12,73644.81,4,4,4,444,Campeones
+4,Manufacturas Avanzadas Madrid SA,Pequeño,12,16,41744.64,4,4,3,443,Campeones
+33,Siderúrgica Levante SA,Grande,21,5,73915.98,4,2,4,424,Nuevos / Potenciales
+40,Autopartes Premium Iberia SA,Grande,14,3,61134.18,4,1,4,414,Nuevos / Potenciales
+34,Química Especialidades BCN SL,Pequeño,9,2,7158.18,4,1,1,411,Nuevos / Potenciales
+26,Maquinaria del Mediterráneo SA,Grande,39,16,216740.37,3,5,5,355,Leales
+12,Textil Industrial Cataluña SA,Mediano,34,21,137150.34,3,5,5,355,Leales
+2,Industrias Químicas Levante SA,Mediano,22,23,154945.01,3,5,5,355,Leales
+24,Piezas de Precisión BCN SA,Grande,31,8,152449.77,3,3,5,335,Leales
+30,Polímeros Técnicos Valencia SA,Pequeño,28,7,17385.5,3,3,2,332,Leales
+32,Fundición y Moldeo Costa SA,Grande,29,2,37989.78,3,1,2,312,Necesitan atención
+28,Confección Técnica Cataluña SA,Pequeño,34,2,5102.27,3,1,1,311,Necesitan atención
+37,Transporte Multimodal Sur SL,Pequeño,27,2,4386.84,3,1,1,311,Necesitan atención
+11,Envases y Embalajes Mediterráneo SL,Pequeño,52,17,40754.62,2,5,3,253,En riesgo
+21,Transporte Pesado Ibérico SL,Grande,73,7,103141.53,2,3,4,234,En riesgo
+1,Metalúrgica del Mediterráneo SL,Mediano,68,7,43088.01,2,3,3,233,En riesgo
+8,Componentes Automotrices Iberia SA,Pequeño,62,11,23299.04,2,3,2,232,En riesgo
+36,Ingeniería Industrial Levante SL,Mediano,71,5,39349.05,2,2,3,223,Hibernando / Perdidos
+29,Estructuras Metálicas Madrid SL,Pequeño,65,5,15142.64,2,2,2,222,Hibernando / Perdidos
+27,Embalajes Industriales SL,Grande,70,3,47990.55,2,1,3,213,Hibernando / Perdidos
+38,Procesos Alimentarios SA,Pequeño,45,2,4411.29,2,1,1,211,Hibernando / Perdidos
+17,Industrias del Acero Valencia SL,Pequeño,80,17,38732.24,1,5,2,152,En riesgo
+9,Procesados Industriales Valencia SL,Mediano,128,11,72478.54,1,4,4,144,En riesgo
+10,Maquinaria Agrícola Levante SA,Grande,165,7,112439.22,1,3,4,134,En riesgo
+16,Fabricación Metálica Costa SA,Pequeño,82,7,20056.69,1,3,2,132,En riesgo
+7,Mecanizados Precisión Aragón SL,Mediano,133,6,46346.35,1,2,3,123,Hibernando / Perdidos
+35,Distribución Logística Centro SA,Mediano,103,4,23203.51,1,2,2,122,Hibernando / Perdidos
+5,Transportes y Distribución Costa SL,Pequeño,272,5,10904.57,1,2,1,121,Hibernando / Perdidos
+15,Electrodomésticos Industriales SL,Pequeño,258,5,12888.87,1,2,1,121,Hibernando / Perdidos
